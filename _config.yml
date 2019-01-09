@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mixed Arts
-email: kln@cas.au.dk
+email: kln(AT)cas(DOT)au(DOT)dk
 description: >- # this means to ignore newlines until "baseurl:"
   Mixed Arts with CodeRefinery & Software Carpentry teaches good programming
   practice and software development to arts and humanities researchers.
