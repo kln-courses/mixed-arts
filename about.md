@@ -20,13 +20,13 @@ Since 1998, Software Carpentry has been teaching researchers the computing skill
 </p>
 
 
-**Annika Rockenberger**
+[**Annika Rockenberger**](http://www.annikarockenberger.com/), Annika(DOT)Rockenberger(AT)nb(DOT)no, Humanities Researcher & Digital Textologist & Software Carpenter & Research Librarian for Digital Humanities.
 The National Library of Norway, Norway
 
 <p align="center">
 <img src="/mixed-arts/images/eckardt.png" alt="MRR" width="250" align="center">
 </p>
-**Max Roald Eckardt**
+[**Max Roald Eckardt**](https://github.com/mehimself), mrec(AT)sdu(DOT)dk, is Carpentries and CodeRefinery instructor and research software engineer at University of Southern Denmark.
 DataKube, University of Southern Denmark, Odense, Denmark
 
 
@@ -34,5 +34,5 @@ DataKube, University of Southern Denmark, Odense, Denmark
 <img src="/mixed-arts/images/nielbo.jpg" alt="KLN" width="250" align="center">
 </p>
 
-[**Kristoffer Laigaard Nielbo**](https://knielbo.github.io//), kln(AT)cas(DOT)au(DOT)dk),
+[**Kristoffer Laigaard Nielbo**](https://knielbo.github.io//), kln(AT)cas(DOT)au(DOT)dk,
 is Carpentries instructor, CodeRefinery SG member, and associate professor of humanities computing at University of Southern Denmark, where he runs an eScience unit for the humanities in the SDU eScience Center. KLN has specialized in applications of quantitative methods and computational tools in analysis, interpretation and storage of cultural data. He has participated in a range of collaborative and interdisciplinary research projects involving researchers from the humanities, social sciences, health science, and natural sciences. His research covers two areas of interest of which one is more recent (automated text analysis) and the other (modeling of cultural behavior) has followed him during his entire academic career. Both interests explore the cultural information space in new and innovative ways by combining cultural data and humanities theories with statistics, computer algorithms, and visualization.
