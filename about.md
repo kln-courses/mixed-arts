@@ -18,21 +18,15 @@ Since 1998, Software Carpentry has been teaching researchers the computing skill
 <p align="center">
 <img src="/mixed-arts/images/rockenberger.jpg" alt="AR  " width="250" align="center">
 </p>
-
-
-[**Annika Rockenberger**](http://www.annikarockenberger.com/), Annika(DOT)Rockenberger(AT)nb(DOT)no, Humanities Researcher & Digital Textologist & Software Carpenter & Research Librarian for Digital Humanities.
-The National Library of Norway, Norway
+[**Annika Rockenberger**](http://www.annikarockenberger.com/), Annika(DOT)Rockenberger(AT)nb(DOT)no, , Ph.D., Research Librarian for Digital Humanities, The National Library of Norway. AR studied Literary Studies, History, and Communication Science in Berlin. She received her Ph.D. from the University of Oslo for her work on analytic philosophy of textual scholarship. Since 2010 she has been active in the digital humanities communities in Germany, Norway, the Nordic Countries, and Europe. She currently works at the National Library of Norway.
 
 <p align="center">
 <img src="/mixed-arts/images/eckardt.png" alt="MRR" width="250" align="center">
 </p>
-[**Max Roald Eckardt**](https://github.com/mehimself), mrec(AT)sdu(DOT)dk, is Carpentries and CodeRefinery instructor and research software engineer at University of Southern Denmark.
-DataKube, University of Southern Denmark, Odense, Denmark
-
+[**Max Roald Eckardt**](https://github.com/mehimself), mrec(AT)sdu(DOT)dk, is a Research Software Engineer at the Center for Humanities Computing Aarhus (CHCAA). He has 12 years of experience with user-centred design for researchers in the humanities. With a background in Mechatronics Engineering and IT Product Design he implemented services and full-stack applications for micro-processors, mobile devices, and web applications. His passion lies with generative programming and social innovation. As instructor for [codeRefinery.org](https://coderefinery.org/) and [software-carpentry.org](https://software-carpentry.org/) he is engaged with research and development of best practices for research software development and their dissemination.
 
 <p align="center">
 <img src="/mixed-arts/images/nielbo.jpg" alt="KLN" width="250" align="center">
 </p>
-
 [**Kristoffer Laigaard Nielbo**](https://knielbo.github.io//), kln(AT)cas(DOT)au(DOT)dk,
-is Carpentries instructor, CodeRefinery SG member, and associate professor of humanities computing at University of Southern Denmark, where he runs an eScience unit for the humanities in the SDU eScience Center. KLN has specialized in applications of quantitative methods and computational tools in analysis, interpretation and storage of cultural data. He has participated in a range of collaborative and interdisciplinary research projects involving researchers from the humanities, social sciences, health science, and natural sciences. His research covers two areas of interest of which one is more recent (automated text analysis) and the other (modeling of cultural behavior) has followed him during his entire academic career. Both interests explore the cultural information space in new and innovative ways by combining cultural data and humanities theories with statistics, computer algorithms, and visualization.
+is Carpentries instructor, CodeRefinery SG member, and associate professor of humanities computing at Aarhus University, where he runs Center for Humanities Computing Aarhus (CHCAA). KLN has specialized in applications of quantitative methods and computational tools in analysis, interpretation and storage of cultural data. He has participated in a range of collaborative and interdisciplinary research projects involving researchers from the humanities, social sciences, health science, and natural sciences. His research covers two areas of interest of which one is more recent (automated text analysis) and the other (modeling of cultural behavior) has followed him during his entire academic career. Both interests explore the cultural information space in new and innovative ways by combining cultural data and humanities theories with statistics, computer algorithms, and visualization.
