@@ -26,6 +26,11 @@ Since 1998, Software Carpentry has been teaching researchers the computing skill
 [**Max Roald Eckardt**](https://github.com/mehimself), mrec(AT)sdu(DOT)dk, is a Research Software Engineer at the Center for Humanities Computing Aarhus (CHCAA). He has 12 years of experience with user-centred design for researchers in the humanities. With a background in Mechatronics Engineering and IT Product Design he implemented services and full-stack applications for micro-processors, mobile devices, and web applications. His passion lies with generative programming and social innovation. As instructor for [codeRefinery.org](https://coderefinery.org/) and [software-carpentry.org](https://software-carpentry.org/) he is engaged with research and development of best practices for research software development and their dissemination.
 
 <p align="center">
+<img src="/mixed-arts/images/mclachlan.JPG" alt="MRR" width="250" align="center">
+</p>
+[**Ross Deans Kristensen-McLachlan**](https://bit.ly/2RNCNnG), rdkm(AT)cc(DOT)au(DOT)dk, is a Research Assistant based at Aarhus University. His academic background is in English Language and Linguistics but he now works more broadly in computational humanities and cultural analytics. He has a strong interest in English historical linguistics, as well as cognitive and computational approaches to lexical semantics and textual analysis. Most recently, he has been involved in the Digital Literacy project at Aarhus, where he provides digital support for a number of research projects working with a diverse range of texts – from 17th-century English drama and Stephen King novels, through to Facebook groups and contemporary Danish church sermons.
+
+<p align="center">
 <img src="/mixed-arts/images/nielbo.jpg" alt="KLN" width="250" align="center">
 </p>
 [**Kristoffer Laigaard Nielbo**](https://knielbo.github.io//), kln(AT)cas(DOT)au(DOT)dk,
